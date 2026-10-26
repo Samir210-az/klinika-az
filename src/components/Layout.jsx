@@ -41,7 +41,7 @@ export default function Layout({ children }) {
 
       <footer className="max-w-5xl mx-auto px-5 py-6 text-center">
         <a
-          href="https://instagram.com/securtiy_group"
+          href="https://aze-ai.az"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs text-ink/30 hover:text-ink/50 transition-colors"
